@@ -17,6 +17,6 @@ It allows users to:
  Hand gesture recognition (single & dual hand)
  AI-powered canvas drawing interpreter
  Dashboard chart rendering (gesture to toggle)
-3D model interaction (move, zoom, rotate via hand)
+ 3D model interaction (move, zoom, rotate via hand)
  Screenshot gesture capture
 Launch WhatsApp, Notion, Gmail using gesture
